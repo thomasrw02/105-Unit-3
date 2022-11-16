@@ -7,7 +7,7 @@ The repository contains 3 python notebooks:
 2. module on getting started with the Pandas package
 3. module on using the Pandas package for data analysis
 
-These materials have been adapted from the excellent lessons created by the research hib of UNC's Davis library. 
+These materials have been adapted from the excellent lessons created by the staff at the [Research Hub](#ADD LINK) of UNC's Davis library. 
 
 When writing your own README, remember the following guidelines:
 
