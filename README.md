@@ -8,4 +8,5 @@ This repository contains 4 main areas of interest:
 3. a larger dataset (HealthData.csv) for users to explore further
 4. subsets of a larger dataset which are analyzed further
 
-Also, users who are simply interested in how Median household income differs by region can witness this differences.
+Also, users who are simply interested in how Median household income differs by region can witness this differences. Speaking of, here is an illustration of how they differ:
+![infographic project 3](https://user-images.githubusercontent.com/118228955/202960619-c894f27a-33d1-43e6-8c3c-c8f0a9b49aa9.png)
