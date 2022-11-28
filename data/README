@@ -1,2 +1,4 @@
 # Data
-This folder contains four files (one for each region of the United States) of 100 random data points of sample data from HealthData.csv, and subjects used for Python instructional modules.
+This folder contains four files (one for each region of the United States) of 100 random data points of sample data from HealthData.csv, and 
+subjects used for Python instructional modules. This folder also contains HealthData.csv, the data file from which the four previously 
+mentioned files draw data from.
