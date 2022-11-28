@@ -11,5 +11,6 @@ This repository contains 4 main areas of interest:
 Also, users who are simply interested in how Median household income differs by region can witness these differences. Speaking of, here is an illustration of how income differs across the US:
 
 
+![updated graph](https://user-images.githubusercontent.com/118228955/204173661-9258f400-950e-4820-8422-00ce99063539.png)
 
-![infographic project 3](https://user-images.githubusercontent.com/118228955/202960619-c894f27a-33d1-43e6-8c3c-c8f0a9b49aa9.png)
+
