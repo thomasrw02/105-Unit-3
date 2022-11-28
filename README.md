@@ -5,7 +5,7 @@ This is a repository with the intent of helping other GitHub users learn how to 
 This repository contains 4 main areas of interest:
 1. modules created by others that cover basic topics in coding with Python3
 2. module created by myself that covers how to transform a larger dataset into a smaller, more focused one
-3. a larger dataset (HealthData.csv) for users to explore further
+3. a larger dataset (HealthData.csv) for users to explore further - ![HealthData.csv](https://uncch.instructure.com/courses/4810/files/1951167?wrap=1)
 4. subsets of a larger dataset which are analyzed further
 
 Also, users who are simply interested in how Median household income differs by region can witness these differences. Speaking of, here is an illustration of how income differs across the US:
