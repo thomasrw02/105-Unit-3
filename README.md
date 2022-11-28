@@ -13,7 +13,7 @@ Also, users who are simply interested in how Median household income differs by 
 
 ![updated graph](https://user-images.githubusercontent.com/118228955/204173661-9258f400-950e-4820-8422-00ce99063539.png)
 
-This project was completed for Professor Steven Gotzler's English 105 class at the University of North Carolina at Chapel Hill.
+This repository was created as a project for Professor Steven Gotzler's English 105 class at the University of North Carolina at Chapel Hill.
 
 I do not own any of this data, all credit goes to the original creators.
 
